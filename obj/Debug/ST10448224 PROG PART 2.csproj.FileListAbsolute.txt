@@ -1,0 +1,21 @@
+C:\Users\suton\Desktop\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.csproj.AssemblyReference.cache
+C:\Users\suton\Desktop\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.csproj.CoreCompileInputs.cache
+C:\Users\suton\Desktop\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.exe.config
+C:\Users\suton\Desktop\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.exe
+C:\Users\suton\Desktop\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.pdb
+C:\Users\suton\Desktop\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.exe
+C:\Users\suton\Desktop\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.pdb
+C:\Users\suton\Desktop\st10448224 prog part 2 final\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.exe.config
+C:\Users\suton\Desktop\st10448224 prog part 2 final\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.exe
+C:\Users\suton\Desktop\st10448224 prog part 2 final\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.pdb
+C:\Users\suton\Desktop\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.csproj.AssemblyReference.cache
+C:\Users\suton\Desktop\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.csproj.CoreCompileInputs.cache
+C:\Users\suton\Desktop\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.exe
+C:\Users\suton\Desktop\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.pdb
+C:\Users\suton\Desktop\assignments\st10448224 prog part 2 final\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.exe.config
+C:\Users\suton\Desktop\assignments\st10448224 prog part 2 final\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.exe
+C:\Users\suton\Desktop\assignments\st10448224 prog part 2 final\ST10448224 PROG PART 2\bin\Debug\ST10448224 PROG PART 2.pdb
+C:\Users\suton\Desktop\assignments\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.csproj.AssemblyReference.cache
+C:\Users\suton\Desktop\assignments\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.csproj.CoreCompileInputs.cache
+C:\Users\suton\Desktop\assignments\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.exe
+C:\Users\suton\Desktop\assignments\st10448224 prog part 2 final\ST10448224 PROG PART 2\obj\Debug\ST10448224 PROG PART 2.pdb
